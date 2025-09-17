@@ -1,0 +1,13 @@
+# Web scraping
+requests
+beautifulsoup4
+
+# YouTube veri çekme
+yt-dlp
+
+# GPT / Transformers
+torch
+transformers
+
+# PDF işleme (opsiyonel)
+PyPDF2
